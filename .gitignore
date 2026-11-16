@@ -25,3 +25,16 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+
+# Packaged applications / build output
+dist/
+build/
+**/dist/
+**/build/
+
+# Python environments
+ctk_env/
+**/ctk_env/
+venv/
+.venv/
